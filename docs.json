@@ -84,13 +84,13 @@
     "links": [
       {
         "label": "GitHub",
-        "url": "https://github.com/chio-labs/fensu"
+        "url": "https://github.com/sqlstack-io/fensu"
       }
     ]
   },
   "footer": {
     "socials": {
-      "github": "https://github.com/chio-labs/fensu"
+      "github": "https://github.com/sqlstack-io/fensu"
     }
   }
 }
